@@ -1,0 +1,9 @@
+importing code form github 
+type git clone the url present in github
+we can change this file 
+we can check the status of the program using git status 
+command if any chanes made in the  git repository it will show here
+we can add to git using git add . which adds all the files to the github
+we can add our files to git after add to local type 
+git commit -m "Add" -m "SOme description"
+then type git push
